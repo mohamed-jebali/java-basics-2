@@ -1,0 +1,21 @@
+file text creato con successo! 
+puoi scrivere da qui 
+ 
+il Maven è un sistema di build automation, un sistema di automatico di ampia varieta' di compiti per gli sviluppatori. Il cuore di di Maven c'è il file POM project object model che gestisce le dipendenze attraverso l'uso di tag XML. Maven permette  di scaricare le librerie necessarie da repository Maven centrali o da altri repository configurati.
+
+
+Build Automation:
+
+Maven automatizza il processo di build di un progetto, semplificando attività come la compilazione del codice, la gestione delle dipendenze, l'esecuzione dei test e la creazione di distribuzioni del software.
+
+Project Object Model (POM):
+
+Il file POM è un file di configurazione principale in un progetto Maven. È scritto in formato XML e contiene informazioni cruciali sul progetto, come le dipendenze, i plugin da utilizzare, le configurazioni di compilazione e altro ancora. Il POM definisce la struttura del progetto e le regole di build.
+
+Gestione delle Dipendenze:
+
+Maven semplifica la gestione delle dipendenze del progetto. Le dipendenze sono specificate nel file POM e Maven si occupa automaticamente di scaricare le librerie necessarie da repository Maven centrali o da altri repository configurati.
+
+Tag XML e Librerie:
+
+Il POM utilizza tag XML per definire la configurazione del progetto. Ad esempio, i tag <dependencies> contengono le informazioni sulle dipendenze del progetto. Maven si basa su librerie predefinite per eseguire varie attività durante la build, come la compilazione del codice sorgente, la creazione di pacchetti JAR 
