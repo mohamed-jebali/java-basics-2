@@ -1,7 +1,7 @@
 file text creato con successo! 
 puoi scrivere da qui 
  
-il Maven è un sistema di build automation, un sistema di automatico di ampia varieta' di compiti per gli sviluppatori. Il cuore di di Maven c'è il file POM project object model che gestisce le dipendenze attraverso l'uso di tag XML. Maven permette  di scaricare le librerie necessarie da repository Maven centrali o da altri repository configurati.
+il Maven è un sistema di build automation, un sistema di automatico di ampia varieta' di compiti per gli sviluppatori. Il cuore di Maven c'è il file POM project object model che gestisce le dipendenze attraverso l'uso di tag XML. Maven permette  di scaricare le librerie necessarie da repository Maven centrali o da altri repository configurati.
 
 
 Build Automation:

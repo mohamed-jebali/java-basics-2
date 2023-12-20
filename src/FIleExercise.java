@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.InputMismatchException;
 
-public class FIleExercise {
+public class FileExercise {
     
     public static void main(String[]args){
 

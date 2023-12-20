@@ -6,6 +6,19 @@ public class App {
         int[] array = {1,2,3,4,5,6,7,8,9,10};
 
         functionCheck.checkOddEven(array);
+
+        MathExercise Mathfunctions = new MathExercise(3, 3);
+
+        System.out.println(Mathfunctions.somma(3, 3));
+
+        System.out.println(Mathfunctions.sottrazione(3, 3));
+
+        System.out.println(Mathfunctions.moltiplicazione(3, 3));
+
+        System.out.println(Mathfunctions.divisione(3, 3));
+
+
+
     }
 
     /** La funzione verifica se i numeri all'interno dell'array sono pari o dispari
